@@ -2,7 +2,10 @@ name: "My ResearchE Class Website"
 navbar:
   title: "My ResearchE Class Website"
   left:
-    - text: "Home"
-      href: index.html
-    - text: "About"
-      href: about.html
+   
+    - text: "Introduction"
+      href: Introdoction.html
+    - text: "Method & Results"
+      href: Method & Results.html
+    - text: "Discussion"
+      href: Discussion.html
