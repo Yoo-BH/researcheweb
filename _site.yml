@@ -8,7 +8,7 @@ navbar:
       href: about.html
     - text: "Introduction"
       href: Introduction.html
-    - text: "Method & Results"
+    - text: "MethodnResults"
       href: MethodnResults.html
-    - text: "Discussion"
-      href: Discussion.html
+    - text: "Discussions"
+      href: Discussions.html
