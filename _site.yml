@@ -9,6 +9,6 @@ navbar:
     - text: "Introduction"
       href: Introduction.html
     - text: "Method & Results"
-      href: Method & Results.html
+      href: MethodnResults.html
     - text: "Discussion"
       href: Discussion.html
